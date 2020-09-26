@@ -47,5 +47,6 @@ For each node, compute the following measures of centrality, using your shortest
 Also calculate the degree centrality and eigenvector centrality of each node. All of the centrality
 measures should be normalised (relative) centrality measures.
 
+![image](https://user-images.githubusercontent.com/71339403/94329135-2945f900-ffb0-11ea-92bb-3382a15b5fc4.png)
 
 
