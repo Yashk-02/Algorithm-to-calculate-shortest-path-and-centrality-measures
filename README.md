@@ -1,5 +1,5 @@
 # Algorithm-to-calculate-shortest-path-and-centrality-measures
-This was a part of Team work and has been Contributed by Yash Kashiwala, Xisheng chen, Xianhong Cao.
+This was a part of Team work and has been Contributed by Yash Kashiwala, Xisheng chen and Xianhong Cao.
 
 The code written uses different data types to implement Dijkstra's Shortest path algorithm and solve various problems explained below.
 
@@ -33,5 +33,19 @@ You must set up a viewing podium for the Mayor and his grandmother at vertex p. 
 the materials for the podium are all located at the race’s start vertex. Since you will have several
 trips transporting the materials before starting your work, you wish to minimise the total distance
 you have to travel from vertex 1 to vertex p, and find a shortest path from 1 to p.
+
+![image](https://user-images.githubusercontent.com/71339403/94329097-be94bd80-ffaf-11ea-944d-07bf0916019d.png)
+
+PROBLEM 2.
+. Padgett’s data on marriage alliances among leading Florentine families in the later
+Renaissance1
+are given in Figure 2. There, each node is a family, and each edge denotes a connection
+by marriage.
+For each node, compute the following measures of centrality, using your shortest path program:
+• Closeness centrality
+• Betweenness centrality
+Also calculate the degree centrality and eigenvector centrality of each node. All of the centrality
+measures should be normalised (relative) centrality measures.
+
 
 
