@@ -1,6 +1,4 @@
 # Algorithm-to-calculate-shortest-path-and-centrality-measures
-This was a part of Team work and has been Contributed by Yash Kashiwala, Xisheng chen and Xianhong Cao.
-
 The code written uses different data types to implement Dijkstra's Shortest path algorithm and solve various problems explained below.
 
 #Prerequisite
